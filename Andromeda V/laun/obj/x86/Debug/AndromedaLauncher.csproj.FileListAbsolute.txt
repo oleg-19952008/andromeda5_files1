@@ -1,0 +1,34 @@
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\bin\Debug\AndromedaLauncher.exe.config
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\bin\Debug\AndromedaLauncher.exe
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\bin\Debug\AndromedaLauncher.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\bin\Debug\ImageButton.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\bin\Debug\TransferableObjects.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\bin\Debug\TransferableObjects.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\obj\x86\Debug\AndromedaLauncher.AuthAdim.resources
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\obj\x86\Debug\AndromedaLauncher.Form1.resources
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\obj\x86\Debug\AndromedaLauncher.Resource1.resources
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\obj\x86\Debug\AndromedaLauncher.Properties.Resources.resources
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\obj\x86\Debug\AndromedaLauncher.csproj.GenerateResource.Cache
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\obj\x86\Debug\AndromedaLauncher.exe
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\laun\obj\x86\Debug\AndromedaLauncher.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\bin\Debug\AndromedaLauncher.exe.config
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\bin\Debug\AndromedaLauncher.exe
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\bin\Debug\AndromedaLauncher.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\bin\Debug\ImageButton.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\bin\Debug\MetroFramework.Design.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\bin\Debug\MetroFramework.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\bin\Debug\TransferableObjects.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\bin\Debug\TransferableObjects.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\obj\x86\Debug\AndromedaLauncher.csprojResolveAssemblyReference.cache
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\obj\x86\Debug\AndromedaLauncher.AuthAdim.resources
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\obj\x86\Debug\AndromedaLauncher.Form1.resources
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\obj\x86\Debug\AndromedaLauncher.Resource1.resources
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\obj\x86\Debug\AndromedaLauncher.Properties.Resources.resources
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\obj\x86\Debug\AndromedaLauncher.csproj.GenerateResource.Cache
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\obj\x86\Debug\AndromedaLauncher.exe
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\obj\x86\Debug\AndromedaLauncher.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\bin\Debug\az\AndromedaLauncher.resources.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\obj\x86\Debug\AndromedaLauncher.Form1.az.resources
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\laun\obj\x86\Debug\az\AndromedaLauncher.resources.dll

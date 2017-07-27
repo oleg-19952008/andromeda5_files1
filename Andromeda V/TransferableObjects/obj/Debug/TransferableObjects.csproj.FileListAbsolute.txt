@@ -1,0 +1,14 @@
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\src\bin\Debug\TransferableObjects.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\src\bin\Debug\TransferableObjects.pdb
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\src\obj\Debug\TransferableObjects.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\src\obj\Debug\TransferableObjects.pdb
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\src\obj\Debug\TransferableObjects.csprojResolveAssemblyReference.cache
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\src\bin\Debug\TransferableObjects.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\src\bin\Debug\TransferableObjects.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\src\obj\Debug\TransferableObjects.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\src\obj\Debug\TransferableObjects.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\Andromeda5v164\src\obj\Debug\TransferableObjects.csprojResolveAssemblyReference.cache
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\TransferableObjects\bin\Debug\TransferableObjects.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\TransferableObjects\bin\Debug\TransferableObjects.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\TransferableObjects\obj\Debug\TransferableObjects.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\TransferableObjects\obj\Debug\TransferableObjects.pdb

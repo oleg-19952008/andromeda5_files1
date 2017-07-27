@@ -1,0 +1,18 @@
+C:\Users\1\Desktop\Black SPACE\server.Black_SPACE\bin\Debug\ConsoleApplication.exe.config
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\BlackSPACE.Server.exe
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\TransferableObjects.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\BlackSPACE.Server.exe.config
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\BlackSPACE.Server.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\Assembly-CSharp.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\UnityEngine.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\IFacebook.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\LitJson.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\Mono.Security.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\Boo.Lang.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\UnityScript.Lang.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\P31RestKit.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\bin\Debug\TransferableObjects.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\obj\x86\Debug\BlackSPACE.Server.exe
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\obj\x86\Debug\BlackSPACE.Server.pdb

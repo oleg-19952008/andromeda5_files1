@@ -1,0 +1,38 @@
+using System;
+
+public enum ServiceType
+{
+	None,
+	NeuronModule,
+	AutoMinerBooster,
+	ExperienceBooster,
+	DamageBooster,
+	CargoBooster,
+	NovaExchange,
+	HyperJump,
+	SkillsReset,
+	Ship,
+	Merchant,
+	ExpandInventory,
+	ExpandVault,
+	GuildDeposit,
+	GuildCreate,
+	GuildFroExtractionPoint,
+	GuildSpend,
+	ExtractionPoint,
+	ExpandShipSlot,
+	Gambler,
+	QualityGambler,
+	ItemReroll,
+	Transformer,
+	FromLoot,
+	PowerUps,
+	CreateAmmo,
+	SendGift,
+	AdForElection,
+	ExtractionPointIncome,
+	CouncilSkillSelect,
+	FactionOrNicknameChange,
+	SkipQuest,
+	EarnFromGame
+}

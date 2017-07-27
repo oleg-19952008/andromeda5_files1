@@ -1,0 +1,28 @@
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\bin\Debug\server.starter.ui.exe.config
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\bin\Debug\server.starter.ui.exe
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\bin\Debug\server.starter.ui.pdb
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\bin\Debug\MetroFramework.Design.dll
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\bin\Debug\MetroFramework.dll
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\bin\Debug\Server.dll
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\bin\Debug\MetroFramework.pdb
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\bin\Debug\MetroFramework.Design.pdb
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\obj\Debug\server.starter.ui.Form1.resources
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\obj\Debug\server.starter.ui.Properties.Resources.resources
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\obj\Debug\server.starter.ui.csproj.GenerateResource.Cache
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\obj\Debug\server.starter.ui.exe
+D:\Users\o.borisychev.BRAVOSOFT\Downloads\NextGen\server.starter.ui\obj\Debug\server.starter.ui.pdb
+C:\Users\null\Desktop\emul v2\server.starter.ui\bin\Debug\server.starter.ui.exe.config
+C:\Users\null\Desktop\emul v2\server.starter.ui\bin\Debug\server.starter.ui.exe
+C:\Users\null\Desktop\emul v2\server.starter.ui\bin\Debug\server.starter.ui.pdb
+C:\Users\null\Desktop\emul v2\server.starter.ui\bin\Debug\MetroFramework.Design.dll
+C:\Users\null\Desktop\emul v2\server.starter.ui\bin\Debug\MetroFramework.dll
+C:\Users\null\Desktop\emul v2\server.starter.ui\bin\Debug\Server.dll
+C:\Users\null\Desktop\emul v2\server.starter.ui\bin\Debug\MetroFramework.pdb
+C:\Users\null\Desktop\emul v2\server.starter.ui\bin\Debug\MetroFramework.Design.pdb
+C:\Users\null\Desktop\emul v2\server.starter.ui\bin\Debug\Server.pdb
+C:\Users\null\Desktop\emul v2\server.starter.ui\obj\Debug\server.starter.ui.csprojResolveAssemblyReference.cache
+C:\Users\null\Desktop\emul v2\server.starter.ui\obj\Debug\server.starter.ui.Form1.resources
+C:\Users\null\Desktop\emul v2\server.starter.ui\obj\Debug\server.starter.ui.Properties.Resources.resources
+C:\Users\null\Desktop\emul v2\server.starter.ui\obj\Debug\server.starter.ui.csproj.GenerateResource.Cache
+C:\Users\null\Desktop\emul v2\server.starter.ui\obj\Debug\server.starter.ui.exe
+C:\Users\null\Desktop\emul v2\server.starter.ui\obj\Debug\server.starter.ui.pdb

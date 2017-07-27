@@ -1,0 +1,4 @@
+C:\xampp\htdocs\andro\Andromeda5v164\Andromeda5_Data\Managed\Новая папка\bin\Debug\TransferableObjects.dll
+C:\xampp\htdocs\andro\Andromeda5v164\Andromeda5_Data\Managed\Новая папка\bin\Debug\TransferableObjects.pdb
+C:\xampp\htdocs\andro\Andromeda5v164\Andromeda5_Data\Managed\Новая папка\obj\Debug\TransferableObjects.dll
+C:\xampp\htdocs\andro\Andromeda5v164\Andromeda5_Data\Managed\Новая папка\obj\Debug\TransferableObjects.pdb

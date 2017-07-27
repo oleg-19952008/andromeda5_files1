@@ -1,0 +1,6 @@
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\server_Black_SPACE\ConsoleApp1\obj\Debug\get_cache.csprojResolveAssemblyReference.cache

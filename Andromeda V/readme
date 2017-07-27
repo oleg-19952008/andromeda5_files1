@@ -1,0 +1,21 @@
+Andromeda5.exe debug version, all write on log Andromeda5_Data/output_log.txt
+Andromeda52.exe normal version, minimal log write to Andromeda5_Data/output_log.txt
+Folder Andromeda5_Data should also be named as exe file
+example
+Andromeda5.exe -> Andromeda5_Data
+
+
+Exe file with a unity3d icon is a debug version of the player
+structure web part 
+http://127.0.0.1/andro/index.aspx
+in explorer "C:\inetpub\wwwroot\andro\index.aspx"
+webserver iis (on windows)
+server part written in C#
+my account for download game files from server andromeda5.com
+login: angelina2008
+pass: 789512345
+
+At the moment there are a couple of methods in the server, entering the game (authorization and going into space), the space does not work anymore, I can not find the necessary package to go out into space to fly.
+in src TransferableObjects_v17555 i decompiled dll "TransferableObjects.dll"
+Assembly-CSharp not work, decompiled.
+project  TransferableObjects old dll, used in launcher 

@@ -1,0 +1,7 @@
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\TransferableObjects_v17555\bin\Debug\TransferableObjects.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\TransferableObjects_v17555\bin\Debug\TransferableObjects.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\TransferableObjects_v17555\obj\Debug\TransferableObjects.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\TransferableObjects_v17555\obj\Debug\TransferableObjects.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\TransferableObjects_v17555\obj\Debug\TransferableObjects_v17555.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\andro\Andromeda5v164_aspx\Andromeda5v164\Andromeda5_Data\Managed\TransferableObjects.dll
+C:\inetpub\wwwroot\andro\Andromeda5v164_aspx\Andromeda5v164\Andromeda5_Data\Managed\TransferableObjects.pdb

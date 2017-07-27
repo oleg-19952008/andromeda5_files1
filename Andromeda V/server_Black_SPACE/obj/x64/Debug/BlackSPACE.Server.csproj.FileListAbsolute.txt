@@ -1,0 +1,41 @@
+C:\Users\1\Desktop\Black SPACE\server.Black_SPACE\bin\x64\Debug\BlackSPACE.Server.exe.config
+C:\Users\1\Desktop\Black SPACE\server.Black_SPACE\bin\x64\Debug\BlackSPACE.Server.exe
+C:\Users\1\Desktop\Black SPACE\server.Black_SPACE\bin\x64\Debug\BlackSPACE.Server.pdb
+C:\Users\1\Desktop\Black SPACE\server.Black_SPACE\obj\x64\Debug\BlackSPACE.Server.exe
+C:\Users\1\Desktop\Black SPACE\server.Black_SPACE\obj\x64\Debug\BlackSPACE.Server.pdb
+C:\Users\1\Desktop\Black SPACE\server.Black_SPACE\obj\x64\Debug\BlackSPACE.Server.csprojResolveAssemblyReference.cache
+C:\Users\null\Desktop\emul v2\Новая папка\led_control\server_Black_SPACE.t\bin\x64\Debug\BlackSPACE.Server.exe.config
+C:\Users\null\Desktop\emul v2\Новая папка\led_control\server_Black_SPACE.t\obj\x64\Debug\BlackSPACE.Server.exe
+C:\Users\null\Desktop\emul v2\Новая папка\led_control\server_Black_SPACE.t\obj\x64\Debug\BlackSPACE.Server.pdb
+C:\Users\null\Desktop\emul v2\Новая папка\led_control\server_Black_SPACE.t\bin\x64\Debug\BlackSPACE.Server.exe
+C:\Users\null\Desktop\emul v2\Новая папка\led_control\server_Black_SPACE.t\bin\x64\Debug\BlackSPACE.Server.pdb
+C:\Users\null\Desktop\emul v2\server_Black_SPACE\bin\x64\Debug\BlackSPACE.Server.exe.config
+C:\Users\null\Desktop\emul v2\server_Black_SPACE\obj\x64\Debug\BlackSPACE.Server.exe
+C:\Users\null\Desktop\emul v2\server_Black_SPACE\obj\x64\Debug\BlackSPACE.Server.pdb
+C:\Users\null\Desktop\emul v2\server_Black_SPACE\bin\x64\Debug\BlackSPACE.Server.exe
+C:\Users\null\Desktop\emul v2\server_Black_SPACE\bin\x64\Debug\BlackSPACE.Server.pdb
+C:\Users\null\Desktop\emul v2\server_Black_SPACE\bin\x64\Debug\MySql.Data.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\BlackSPACE.Server.exe.config
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\BlackSPACE.Server.exe
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\BlackSPACE.Server.pdb
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\obj\x64\Debug\BlackSPACE.Server.exe
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\obj\x64\Debug\BlackSPACE.Server.pdb
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\Assembly-CSharp.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\TransferableObjects.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\UnityEngine.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\IFacebook.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\LitJson.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\Assembly-UnityScript-firstpass.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\Assembly-CSharp-firstpass.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\Mono.Security.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\Boo.Lang.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\UnityScript.Lang.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\bin\x64\Debug\P31RestKit.dll
+C:\Program Files (x86)\XS-Software\Andromeda V\Andromeda5v164\server_Black_SPACE\obj\x64\Debug\BlackSPACE.Server.csprojResolveAssemblyReference.cache
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\Andromeda V_serial\server_Black_SPACE\bin\x64\Debug\BlackSPACE.Server.exe.config
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\Andromeda V_serial\server_Black_SPACE\bin\x64\Debug\BlackSPACE.Server.exe
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\Andromeda V_serial\server_Black_SPACE\bin\x64\Debug\BlackSPACE.Server.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\Andromeda V_serial\server_Black_SPACE\bin\x64\Debug\TransferableObjects.dll
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\Andromeda V_serial\server_Black_SPACE\bin\x64\Debug\TransferableObjects.pdb
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\Andromeda V_serial\server_Black_SPACE\obj\x64\Debug\BlackSPACE.Server.exe
+C:\Users\null\Desktop\XS-Software\Andromeda V\src\Andromeda V\Andromeda V_serial\server_Black_SPACE\obj\x64\Debug\BlackSPACE.Server.pdb
